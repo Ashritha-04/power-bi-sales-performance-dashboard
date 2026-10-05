@@ -4,6 +4,10 @@
 
 An interactive Power BI dashboard developed to analyze sales performance and identify trends across different business dimensions.
 
+## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](sales-performance-dashboard.png)
+
 ## 📌 Key Metrics
 
 - **Total Sales:** 905K
